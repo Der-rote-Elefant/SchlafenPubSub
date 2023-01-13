@@ -1,0 +1,2 @@
+# SchlafenPubSub
+encapsulation of rabbitmq
